@@ -11,9 +11,7 @@ Region: South America - R9
 
 Section/Student Branch: Nueva Granada Militar University
 
-<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-21.png?raw=true
-">https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-21.png?raw=true
-
+<IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-16-21.png?raw=true">
 <IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-58.png?raw=true">
 <IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-58.png?raw=true">
 <IMG SRC="https://github.com/DavincisDreamTeam/Surprise-World-Cards/blob/master/Screen%20Shots/Screenshot_2017-07-06-19-15-42.png?raw=true">
